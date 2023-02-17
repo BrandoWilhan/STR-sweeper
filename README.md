@@ -8,6 +8,6 @@ remoteApi.so é um arquivo necessário para o funcionamento da integração no L
 sweeper.py é o programa que controla o robô orientado a threads.
 caso não tenha a lib do pyRTOS instalada na sua máquina, é necessário entrar no ambiente virtual (sweeper), com o comando:
 
-$ source sweeper/bin/activate
+`$ source sweeper/bin/activate`
 
 o programa sweeper.py escreve as medições de tempo das tasks nos arquivos com nome das tasks (ou nomes proximos disso).
